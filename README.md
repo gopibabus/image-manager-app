@@ -1,8 +1,3 @@
-<!-- Styles -->
-<style>
-strong {color: red;}
-</style>
-
 ![image-manager-app](./banner.png)
 
 > Simple app built on Vue.js for managing(uploading and viewing) images.
