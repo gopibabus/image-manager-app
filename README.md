@@ -1,4 +1,6 @@
-# image-manager-app
+![image-manager-app](./banner.png)
+
+> Simple app built on Vue.js for managing(uploading and viewing) images.
 
 ## Project setup
 ```
@@ -20,5 +22,12 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Project Details
+
+### Authentication
+
+[Imgur](https://apidocs.imgur.com/)
+
+### Image Storage
+
+[Imgur](https://apidocs.imgur.com/)
