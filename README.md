@@ -1,3 +1,8 @@
+<!-- Styles -->
+<style>
+strong {color: red;}
+</style>
+
 ![image-manager-app](./banner.png)
 
 > Simple app built on Vue.js for managing(uploading and viewing) images.
@@ -34,10 +39,3 @@ npm run lint
 
 ### Local Dev Setup
 > In order to make app work in local machine, consider updating **Redirect** to local url(http://localhost:8080) in imgur account, where you created **client ID** and **client Secret** for the application.
-
-<!-- Styles -->
-<style>
-strong {
-  color: red;
-}
-</style>
